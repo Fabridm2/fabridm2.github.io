@@ -8,6 +8,8 @@ header {
     height: 50px;
     width: 100%;
     display: flex;
+    left: 0%;
+    top: 0%;
     justify-content: center;
 }
 .textoimg{
@@ -80,9 +82,12 @@ footer {
     text-align: center;
     padding: 10px;
     font-size: 14px;
+    left:0%
+        
 } 
 footer p {
     margin: 0;
     padding: 0;
+    
 }
   
